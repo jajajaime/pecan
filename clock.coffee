@@ -1,6 +1,6 @@
-command: "date +\"%I:%M%p\""
+command: "date +\"%I:%M:%S%p\""
 
-refreshFrequency: 60000 # ms
+refreshFrequency: 1000 # ms
 
 render: (output) ->
   "<div class='screen'><div class='pecanclock'>→ #{output}</div></div>"
