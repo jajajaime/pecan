@@ -235,7 +235,7 @@
 	bottom: var(--pecan-alignment-bottom);
 	left: auto;
 	margin-top: calc(var(--pecan-padding-v) + var(--pecan-border));
-	margin-right: calc(var(--pecan-padding-right) + calc(var(--pecan-text-padding) * 2) + 9ch + calc(var(--pecan-border) * 2));
+	margin-right: calc(var(--pecan-padding-right) + calc(var(--pecan-text-padding) * 2) + 10ch + calc(var(--pecan-border) * 2));
 	margin-bottom: calc(var(--pecan-padding-v) + var(--pecan-border));
 	line-height:  var(--pecan-line-height);
 	border-top-left-radius: var(--pecan-border-radius-inner);
